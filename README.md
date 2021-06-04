@@ -1,0 +1,5 @@
+- � Hi, I’m @MadFoxForce
+- � I’m interested in backend dev
+- � I’m currently learning frontend dev
+- � I’m looking to collaborate on bethesda
+- � How to reach me: on da bus
